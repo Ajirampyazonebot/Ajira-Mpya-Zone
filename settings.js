@@ -16,13 +16,13 @@ global.ownername = "AJIRAMPYAZONE"   // Owner name //
 global.ownernumber = ['255745983917'] 
 global.socialm = "𝗜𝗻𝘀𝘁𝗮 : 3.69_pika" // 𝗜𝗻𝘀𝘁𝗮 : || 𝗚𝗶𝘁𝗵𝘂𝗯 : || 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 : \\
 global.ytname = "YT: Ytname"   // Yt chanel name //
-global.continent = "Asia" // your continent name 
-global.region = "India" // your country name
-global.state = "Assam" // your state name
-global.district = "Dibrugarh" // your district name
-global.timezone = "Asia/Kolkata" // search on google if you don't know the timezone of your country //
-global.instagramId = "3.69_pika" // Your insta ID
-global.email = "example@exmaple.com" // put your email here
+global.continent = "Africa" // your continent name 
+global.region = "Tanzania" // your country name
+global.state = "tz" // your state name
+global.district = "Dar es salaam" // your district name
+global.timezone = "dar es salamm/nairobi" // search on google if you don't know the timezone of your country //
+global.instagramId = "utumishiportals" // Your insta ID
+global.email = "support@ajirampyazone.com" // put your email here
 
 
 //------------ 🌟 Premium Users 🌟-------------\\
