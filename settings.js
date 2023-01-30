@@ -2,20 +2,20 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 
-global.botname = "Queen Anya" 
+global.botname = "Ajira Mpya Zone" 
 global.botLanguage = "default" // 𝗗𝗲𝗳𝗮𝘂𝗹𝘁 || 𝗘𝗻𝗴𝗹𝗶𝘀𝗵 || 𝗛𝗶𝗻𝗱𝗶 || 𝗔𝗿𝗮𝗯𝗶𝗰 \\
 global.author = "𝙋𝙄𝙆𝘼"  
-global.packname = "𝙌𝙐𝙀𝙀𝙉✯𝘼𝙉𝙔𝘼✯𝘽𝙊𝙏"  
-global.myweb = "https://github.com/PikaBotz" // You can put any link 
-global.waterMark = "×͜× King ✘ Pika™ ✓" // Your own watermark 
-global.headerText = "Anya by Pika" // text for header of menu         
-global.DocumentTitle = "MASTER⚔️PIKA" 
+global.packname = "✯𝘼jir𝘼✯mpyaZonE✯𝘽𝙊𝙏"  
+global.myweb = "https://ajirampyazone.com/PikaBotz" // You can put any link 
+global.waterMark = "ajirampyazone™ ✓" // Your own watermark 
+global.headerText = "Ajirampyazone" // text for header of menu         
+global.DocumentTitle = "ajirampyazone" 
 
 
 global.ownername = "AJIRAMPYAZONE"   // Owner name //        
-global.ownernumber = ['255745983917'] 
-global.socialm = "𝗜𝗻𝘀𝘁𝗮 : 3.69_pika" // 𝗜𝗻𝘀𝘁𝗮 : || 𝗚𝗶𝘁𝗵𝘂𝗯 : || 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 : \\
-global.ytname = "YT: Ytname"   // Yt chanel name //
+global.ownernumber = ['255678337917'] 
+global.socialm = "𝗜𝗻𝘀𝘁𝗮 : utumishiportals" // 𝗜𝗻𝘀𝘁𝗮 : || 𝗚𝗶𝘁𝗵𝘂𝗯 : || 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 : \\
+global.ytname = "YT: ajirampyazonemedia"   // Yt chanel name //
 global.continent = "Africa" // your continent name 
 global.region = "Tanzania" // your country name
 global.state = "tz" // your state name
