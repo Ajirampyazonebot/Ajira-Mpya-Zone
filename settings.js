@@ -4,7 +4,7 @@ const chalk = require('chalk')
 
 global.botname = "Ajira Mpya Zone" 
 global.botLanguage = "default" // 𝗗𝗲𝗳𝗮𝘂𝗹𝘁 || 𝗘𝗻𝗴𝗹𝗶𝘀𝗵 || 𝗛𝗶𝗻𝗱𝗶 || 𝗔𝗿𝗮𝗯𝗶𝗰 \\
-global.author = "𝙋𝙄𝙆𝘼"  
+global.author = "𝘼jirampyaZonE"  
 global.packname = "✯𝘼jir𝘼✯mpyaZonE✯𝘽𝙊𝙏"  
 global.myweb = "https://ajirampyazone.com/PikaBotz" // You can put any link 
 global.waterMark = "ajirampyazone™ ✓" // Your own watermark 
